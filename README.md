@@ -1,3 +1,3 @@
 # Xylophone_Website
-A User friendly website that lets anyone to play any of the xylophone notes by clickin 
+A User friendly website that lets anyone to play the xylophone notes by clicking 
 on the button or by pressing the corresponding letter on the keyboard.
